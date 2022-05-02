@@ -14,6 +14,6 @@ class VeterinariaApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.green,
         ),
-        home: MyHomePage());
+        home: PaginaInicial());
   }
 } //Widget sin estado

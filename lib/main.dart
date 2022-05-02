@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:castillo/gridviewarticulos.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(VeterinariaApp());
 } //Funcion principal
 
-class MyApp extends StatelessWidget {
+class VeterinariaApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
